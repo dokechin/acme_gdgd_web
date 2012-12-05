@@ -10,6 +10,9 @@ sub startup {
 
   $r->post('/webhook')->to('Root#webhook');
   $r->get('/')->to('Root#index');
+  # have not implemented yet
+  $r->get('/register')->to('Root#register');
+
 }
 
 1;
