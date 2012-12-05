@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /home/nopaste/perl5/perlbrew/perls/perl-5.16.1/bin/start_server --port=8000 --interval=10 -- /home/nopaste/perl5/perlbrew/perls/perl-5.16.1/bin/plackup -s Starman -MFindBin -a /home/nopaste/acme_gdgd_web/acme_gdgd_web.psgi
