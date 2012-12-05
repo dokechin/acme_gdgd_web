@@ -9,11 +9,11 @@ sub index {
 
   if ($stat->atime + 24*60*60 < time){
       $self->render(
-        message => 'グダグダ言ってないでコード書けよ。ハゲ！');
+        message => 'グダグダ言ってないでコード書けよ。ハゲ！!');
   }
   else{
       $self->render(
-        message => 'グダグダ言ってないでコード書いてるね。ナイスガイ！');
+        message => 'グダグダ言ってないでコード書いてるね。ナイスガイ！!');
   }
 }
 sub webhook {
