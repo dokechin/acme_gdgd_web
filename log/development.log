@@ -1,0 +1,367 @@
+[Fri Dec  7 05:34:49 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:34:49 2012] [info] Listening at "http://*:3000".
+[Fri Dec  7 05:34:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:34:55 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:34:55 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Fri Dec  7 05:34:55 2012] [debug] Rendering template "Root/index.html.ep".
+[Fri Dec  7 05:34:55 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Dec  7 05:34:55 2012] [debug] 200 OK (0.042184s, 23.706/s).
+[Fri Dec  7 05:35:00 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:35:00 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:35:00 2012] [debug] 302 Found (0.001234s, 810.373/s).
+[Fri Dec  7 05:37:38 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:37:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:37:40 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:37:40 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:37:40 2012] [debug] 302 Found (0.012703s, 78.722/s).
+[Fri Dec  7 05:37:40 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:37:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:37:40 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:37:40 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:37:40 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:37:40 2012] [debug] 404 Not Found (0.028788s, 34.737/s).
+[Fri Dec  7 05:38:33 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:38:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:38:34 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:34 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:34 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:38:34 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:38:34 2012] [debug] 404 Not Found (0.028181s, 35.485/s).
+[Fri Dec  7 05:38:35 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:35 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:35 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:35 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:35 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:35 2012] [debug] 404 Not Found (0.009848s, 101.543/s).
+[Fri Dec  7 05:38:36 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:36 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:36 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:36 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:36 2012] [debug] 404 Not Found (0.009753s, 102.533/s).
+[Fri Dec  7 05:38:36 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:36 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:36 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:36 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:36 2012] [debug] 404 Not Found (0.009751s, 102.554/s).
+[Fri Dec  7 05:38:36 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:36 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:36 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:36 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:36 2012] [debug] 404 Not Found (0.009628s, 103.864/s).
+[Fri Dec  7 05:38:37 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:37 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:37 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:37 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:37 2012] [debug] 404 Not Found (0.009574s, 104.450/s).
+[Fri Dec  7 05:38:37 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:37 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:37 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:37 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:37 2012] [debug] 404 Not Found (0.009809s, 101.947/s).
+[Fri Dec  7 05:38:37 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:37 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:37 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:37 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:37 2012] [debug] 404 Not Found (0.009788s, 102.166/s).
+[Fri Dec  7 05:38:49 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:49 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:49 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:49 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:49 2012] [debug] 404 Not Found (0.009684s, 103.263/s).
+[Fri Dec  7 05:38:49 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:49 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:49 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:49 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:49 2012] [debug] 404 Not Found (0.009765s, 102.407/s).
+[Fri Dec  7 05:38:50 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] 404 Not Found (0.009707s, 103.018/s).
+[Fri Dec  7 05:38:50 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] 404 Not Found (0.009709s, 102.997/s).
+[Fri Dec  7 05:38:50 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] 404 Not Found (0.009745s, 102.617/s).
+[Fri Dec  7 05:38:50 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:50 2012] [debug] 404 Not Found (0.009658s, 103.541/s).
+[Fri Dec  7 05:38:51 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:51 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:51 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:51 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:51 2012] [debug] 404 Not Found (0.009725s, 102.828/s).
+[Fri Dec  7 05:38:51 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:51 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:51 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:51 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:51 2012] [debug] 404 Not Found (0.009682s, 103.284/s).
+[Fri Dec  7 05:38:51 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:51 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:51 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:51 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:51 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:51 2012] [debug] 404 Not Found (0.009669s, 103.423/s).
+[Fri Dec  7 05:38:54 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:54 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:54 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:54 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:54 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:54 2012] [debug] 404 Not Found (0.009722s, 102.859/s).
+[Fri Dec  7 05:38:54 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:54 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:54 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:54 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:54 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:54 2012] [debug] 404 Not Found (0.009623s, 103.918/s).
+[Fri Dec  7 05:38:55 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:55 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:55 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:55 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:55 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:55 2012] [debug] 404 Not Found (0.009627s, 103.875/s).
+[Fri Dec  7 05:38:55 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:55 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:55 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:55 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:55 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:55 2012] [debug] 404 Not Found (0.009662s, 103.498/s).
+[Fri Dec  7 05:38:56 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:56 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:56 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:56 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:56 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:56 2012] [debug] 404 Not Found (0.009654s, 103.584/s).
+[Fri Dec  7 05:38:56 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:38:56 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:38:56 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:38:56 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:56 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:38:56 2012] [debug] 404 Not Found (0.010526s, 95.003/s).
+[Fri Dec  7 05:40:28 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:40:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:40:39 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:40:39 2012] [error] syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 29, near "):"
+Compilation failed in require at (eval 244) line 1.
+
+[Fri Dec  7 05:40:39 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Dec  7 05:40:39 2012] [debug] Template "exception.html.ep" not found.
+[Fri Dec  7 05:40:39 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:40:39 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:40:39 2012] [debug] 500 Internal Server Error (0.053293s, 18.764/s).
+[Fri Dec  7 05:41:02 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:41:02 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:41:02 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:02 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:41:02 2012] [debug] 302 Found (0.012824s, 77.979/s).
+[Fri Dec  7 05:41:02 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:02 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:02 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:41:02 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:41:02 2012] [debug] 404 Not Found (0.028651s, 34.903/s).
+[Fri Dec  7 05:41:09 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:09 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:09 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:09 2012] [debug] 404 Not Found (0.009665s, 103.466/s).
+[Fri Dec  7 05:41:10 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:10 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:10 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:10 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:10 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:10 2012] [debug] 404 Not Found (0.009669s, 103.423/s).
+[Fri Dec  7 05:41:10 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:10 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:10 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:10 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:10 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:10 2012] [debug] 404 Not Found (0.009661s, 103.509/s).
+[Fri Dec  7 05:41:28 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:41:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:41:28 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:28 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:28 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:29 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:41:29 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:41:29 2012] [debug] 404 Not Found (0.028733s, 34.803/s).
+[Fri Dec  7 05:41:29 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:29 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:29 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:29 2012] [debug] 404 Not Found (0.009714s, 102.944/s).
+[Fri Dec  7 05:41:30 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:30 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:30 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:30 2012] [debug] 404 Not Found (0.009590s, 104.275/s).
+[Fri Dec  7 05:41:31 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:31 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:31 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:31 2012] [debug] 404 Not Found (0.009811s, 101.926/s).
+[Fri Dec  7 05:41:31 2012] [debug] GET /authorize (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:41:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:41:31 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:31 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:41:31 2012] [debug] 404 Not Found (0.009782s, 102.229/s).
+[Fri Dec  7 05:41:33 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:41:33 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:41:33 2012] [debug] 302 Found (0.012571s, 79.548/s).
+[Fri Dec  7 05:43:16 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:43:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:43:18 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:43:18 2012] [error] syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 11, near "->param{client_id"
+Global symbol "$self" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 12.
+syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 12, near "->param{redirect_url"
+Global symbol "$stat" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 14.
+Global symbol "$self" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 15.
+Global symbol "$client_id" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 16.
+Global symbol "$redirect_url" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 16.
+Global symbol "$self" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 19.
+syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 22, near "}"
+syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 28, near "}"
+BEGIN not safe after errors--compilation aborted at /usr/lib/perl5/site_perl/5.14/Mojo/Exception.pm line 102.
+Compilation failed in require at (eval 244) line 1.
+
+[Fri Dec  7 05:43:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Dec  7 05:43:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Dec  7 05:43:18 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:43:18 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:43:18 2012] [debug] 500 Internal Server Error (0.052862s, 18.917/s).
+[Fri Dec  7 05:44:17 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:44:17 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:44:17 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:44:17 2012] [error] syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 11, near "->params{client_id"
+Global symbol "$self" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 12.
+syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 12, near "->params{redirect_url"
+Global symbol "$stat" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 14.
+Global symbol "$self" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 15.
+Global symbol "$client_id" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 16.
+Global symbol "$redirect_url" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 16.
+Global symbol "$self" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 19.
+syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 22, near "}"
+syntax error at script/../lib/Acme/GdGd/Web/Root.pm line 28, near "}"
+BEGIN not safe after errors--compilation aborted at /usr/lib/perl5/site_perl/5.14/Mojo/Exception.pm line 102.
+Compilation failed in require at (eval 244) line 1.
+
+[Fri Dec  7 05:44:17 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Dec  7 05:44:17 2012] [debug] Template "exception.html.ep" not found.
+[Fri Dec  7 05:44:17 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:44:17 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:44:17 2012] [debug] 500 Internal Server Error (0.053954s, 18.534/s).
+[Fri Dec  7 05:44:18 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:44:18 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Fri Dec  7 05:44:18 2012] [error] Can't locate object method "index" via package "Acme::GdGd::Web::Root" at /usr/lib/perl5/site_perl/5.14/Mojolicious/Routes.pm line 143.
+
+[Fri Dec  7 05:44:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Dec  7 05:44:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Dec  7 05:44:18 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:44:18 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:44:18 2012] [debug] 500 Internal Server Error (0.039356s, 25.409/s).
+[Fri Dec  7 05:44:21 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:44:21 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Fri Dec  7 05:44:21 2012] [error] Can't locate object method "index" via package "Acme::GdGd::Web::Root" at /usr/lib/perl5/site_perl/5.14/Mojolicious/Routes.pm line 143.
+
+[Fri Dec  7 05:44:21 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Dec  7 05:44:21 2012] [debug] Template "exception.html.ep" not found.
+[Fri Dec  7 05:44:21 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:44:21 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:44:21 2012] [debug] 500 Internal Server Error (0.014991s, 66.707/s).
+[Fri Dec  7 05:44:33 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:44:33 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:44:33 2012] [debug] Action not found in controller.
+[Fri Dec  7 05:44:33 2012] [debug] Template "Root/login.html.ep" not found.
+[Fri Dec  7 05:44:33 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:44:33 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:44:33 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:44:33 2012] [debug] Rendering inline template.
+[Fri Dec  7 05:44:33 2012] [debug] 404 Not Found (0.028430s, 35.174/s).
+[Fri Dec  7 05:44:43 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:44:43 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:44:43 2012] [debug] Action not found in controller.
+[Fri Dec  7 05:44:43 2012] [debug] Template "Root/login.html.ep" not found.
+[Fri Dec  7 05:44:43 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Dec  7 05:44:43 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Dec  7 05:44:43 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:44:43 2012] [debug] Rendering cached inline template.
+[Fri Dec  7 05:44:43 2012] [debug] 404 Not Found (0.011480s, 87.108/s).
+[Fri Dec  7 05:46:30 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:46:37 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:46:37 2012] [info] Listening at "http://*:3000".
+[Fri Dec  7 05:46:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:46:40 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:46:40 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:46:40 2012] [debug] 302 Found (0.012930s, 77.340/s).
+[Fri Dec  7 05:46:40 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:46:40 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Fri Dec  7 05:46:40 2012] [debug] Rendering template "Root/index.html.ep".
+[Fri Dec  7 05:46:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Dec  7 05:46:40 2012] [debug] 200 OK (0.032840s, 30.451/s).
+[Fri Dec  7 05:46:44 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:46:44 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:46:44 2012] [debug] 302 Found (0.001083s, 923.361/s).
+[Fri Dec  7 05:46:51 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:46:51 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:46:51 2012] [debug] 302 Found (0.001353s, 739.098/s).
+[Fri Dec  7 05:47:09 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:47:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:47:11 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:47:11 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:47:11 2012] [debug] 302 Found (0.012812s, 78.052/s).
+[Fri Dec  7 05:47:14 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:47:14 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:47:14 2012] [debug] 302 Found (0.001331s, 751.315/s).
+[Fri Dec  7 05:47:18 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:47:18 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:47:18 2012] [debug] 302 Found (0.001445s, 692.042/s).
+[Fri Dec  7 05:49:27 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:49:32 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:49:32 2012] [info] Listening at "http://*:3000".
+[Fri Dec  7 05:49:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:49:35 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:49:35 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:49:35 2012] [debug] 302 Found (0.012813s, 78.046/s).
+[Fri Dec  7 05:49:35 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:49:35 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Fri Dec  7 05:49:35 2012] [debug] Rendering template "Root/index.html.ep".
+[Fri Dec  7 05:49:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Dec  7 05:49:35 2012] [debug] 200 OK (0.028962s, 34.528/s).
+[Fri Dec  7 05:50:05 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Fri Dec  7 05:50:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Dec  7 05:50:07 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:50:08 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Fri Dec  7 05:50:08 2012] [debug] 302 Found (0.012600s, 79.365/s).
+[Fri Dec  7 05:50:14 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Fri Dec  7 05:50:14 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Fri Dec  7 05:50:14 2012] [debug] Rendering template "Root/index.html.ep".
+[Fri Dec  7 05:50:14 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Dec  7 05:50:14 2012] [debug] 200 OK (0.033842s, 29.549/s).
+[Fri Dec  7 05:50:49 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
