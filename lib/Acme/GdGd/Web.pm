@@ -14,6 +14,7 @@ sub startup {
   $r->get('/')->to('Root#index');
   # have not implemented yet
   $r->get('/login')->to('Root#login');
+  $r->get('/callback')->to('Root#callback');
 
 }
 
