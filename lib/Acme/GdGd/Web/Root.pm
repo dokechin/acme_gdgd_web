@@ -4,6 +4,9 @@ use utf8;
 use File::stat;
 use String::Random;
 require LWP::UserAgent;
+use JSON qw/encode_json decode_json/;
+use Data::Dumper;
+
 
 sub index {
 
@@ -65,9 +68,18 @@ sub callback{
           my $access_token=$2;
 
           my $response = $ua->get('https://api.github.com/user?access_token='. $access_token);
-          print $response->content;
+          my $json = decode_json($response->content);
+          my $user = $json->{'login'};
+          
+          
+          my $row = $self->app->db->single('User',{user=>$user});
+          print Dumper($row);
+          if (!defined $row){
+              my $key = String::Random->new->randregex('[A-Za-z0-9]{32}');
+              $self->app->db->insert('User',{user=>$user, key=>$key});
+          }
 
-          $self->session(user=>$response->content);
+          $self->session(user=>$user);
           $self->session(access_token=>$access_token);
 
           $self->redirect_to('/');

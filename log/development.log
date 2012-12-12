@@ -787,3 +787,163 @@ Compilation failed in require at (eval 244) line 1.
 [Mon Dec 10 23:37:47 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
 [Mon Dec 10 23:38:36 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
 [Mon Dec 10 23:39:46 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Mon Dec 10 23:56:07 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Mon Dec 10 23:56:07 2012] [info] Listening at "http://*:3000".
+[Mon Dec 10 23:56:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec 10 23:56:22 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Mon Dec 10 23:56:22 2012] [error] Global symbol "$user" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 71.
+Global symbol "%json" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 71.
+Global symbol "$user" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 73.
+Compilation failed in require at (eval 244) line 1.
+
+[Mon Dec 10 23:56:22 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Dec 10 23:56:22 2012] [debug] Template "exception.html.ep" not found.
+[Mon Dec 10 23:56:22 2012] [debug] Rendering inline template.
+[Mon Dec 10 23:56:22 2012] [debug] Rendering inline template.
+[Mon Dec 10 23:56:22 2012] [debug] 500 Internal Server Error (0.078881s, 12.677/s).
+[Mon Dec 10 23:56:45 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Mon Dec 10 23:56:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Mon Dec 10 23:56:46 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Mon Dec 10 23:56:46 2012] [error] Global symbol "$user" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 71.
+Global symbol "$user" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 73.
+Compilation failed in require at (eval 244) line 1.
+
+[Mon Dec 10 23:56:46 2012] [debug] Template "exception.development.html.ep" not found.
+[Mon Dec 10 23:56:46 2012] [debug] Template "exception.html.ep" not found.
+[Mon Dec 10 23:56:46 2012] [debug] Rendering inline template.
+[Mon Dec 10 23:56:46 2012] [debug] Rendering inline template.
+[Mon Dec 10 23:56:46 2012] [debug] 500 Internal Server Error (0.071766s, 13.934/s).
+[Wed Dec 12 23:32:29 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:32:29 2012] [info] Listening at "http://*:3000".
+[Wed Dec 12 23:34:33 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Dec 12 23:34:33 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:34:33 2012] [error] Global symbol "$user" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 72.
+Global symbol "$user" requires explicit package name at script/../lib/Acme/GdGd/Web/Root.pm line 75.
+Compilation failed in require at (eval 244) line 1.
+
+[Wed Dec 12 23:34:33 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Dec 12 23:34:33 2012] [debug] Template "exception.html.ep" not found.
+[Wed Dec 12 23:34:33 2012] [debug] Rendering inline template.
+[Wed Dec 12 23:34:33 2012] [debug] Rendering inline template.
+[Wed Dec 12 23:34:33 2012] [debug] 500 Internal Server Error (0.076322s, 13.102/s).
+[Wed Dec 12 23:34:46 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:34:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Dec 12 23:34:46 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:34:46 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Wed Dec 12 23:34:46 2012] [debug] 302 Found (0.069673s, 14.353/s).
+[Wed Dec 12 23:34:47 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:34:47 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Wed Dec 12 23:34:49 2012] [debug] 302 Found (2.153696s, 0.464/s).
+[Wed Dec 12 23:34:49 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:34:49 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Wed Dec 12 23:34:49 2012] [debug] Rendering template "Root/index.html.ep".
+[Wed Dec 12 23:34:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Dec 12 23:34:49 2012] [debug] 200 OK (0.035001s, 28.571/s).
+[Wed Dec 12 23:41:31 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:41:32 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:41:57 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:42:11 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:43:31 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:44:05 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:44:55 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:48:13 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:50:28 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:50:28 2012] [info] Listening at "http://*:3000".
+[Wed Dec 12 23:50:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Dec 12 23:50:36 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:50:36 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Wed Dec 12 23:50:36 2012] [debug] 302 Found (0.063469s, 15.756/s).
+[Wed Dec 12 23:50:39 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:50:39 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Wed Dec 12 23:50:41 2012] [error] Can't locate object method "new" via package "Acme::GdGd::DB" (perhaps you forgot to load "Acme::GdGd::DB"?) at script/../lib/Acme/GdGd/Web.pm line 9.
+
+[Wed Dec 12 23:50:41 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Dec 12 23:50:41 2012] [debug] Template "exception.html.ep" not found.
+[Wed Dec 12 23:50:41 2012] [debug] Rendering inline template.
+[Wed Dec 12 23:50:41 2012] [debug] Rendering inline template.
+[Wed Dec 12 23:50:41 2012] [debug] 500 Internal Server Error (2.114104s, 0.473/s).
+[Wed Dec 12 23:51:19 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:51:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Dec 12 23:51:19 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:51:19 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Wed Dec 12 23:51:20 2012] [debug] 302 Found (1.165056s, 0.858/s).
+[Wed Dec 12 23:51:20 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:51:20 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Wed Dec 12 23:51:20 2012] [debug] Rendering template "Root/index.html.ep".
+[Wed Dec 12 23:51:20 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Dec 12 23:51:20 2012] [debug] 200 OK (0.028052s, 35.648/s).
+[Wed Dec 12 23:52:48 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:53:06 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:59:32 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Wed Dec 12 23:59:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Dec 12 23:59:40 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:59:40 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Wed Dec 12 23:59:40 2012] [debug] 302 Found (0.062075s, 16.110/s).
+[Wed Dec 12 23:59:41 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Wed Dec 12 23:59:41 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Wed Dec 12 23:59:44 2012] [error] Can't locate object method "instance" via package "Acme::GdGd::DB::Schema" (perhaps you forgot to load "Acme::GdGd::DB::Schema"?) at /usr/lib/perl5/site_perl/5.14/Teng.pm line 63.
+
+[Wed Dec 12 23:59:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Dec 12 23:59:44 2012] [debug] Template "exception.html.ep" not found.
+[Wed Dec 12 23:59:44 2012] [debug] Rendering inline template.
+[Wed Dec 12 23:59:44 2012] [debug] Rendering inline template.
+[Wed Dec 12 23:59:44 2012] [debug] 500 Internal Server Error (2.549952s, 0.392/s).
+[Thu Dec 13 00:00:30 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Thu Dec 13 00:00:36 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Thu Dec 13 00:00:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Dec 13 00:00:36 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:00:36 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Thu Dec 13 00:00:37 2012] [debug] 302 Found (1.132553s, 0.883/s).
+[Thu Dec 13 00:00:37 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:00:37 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Thu Dec 13 00:00:37 2012] [debug] Rendering template "Root/index.html.ep".
+[Thu Dec 13 00:00:37 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Dec 13 00:00:37 2012] [debug] 200 OK (0.028157s, 35.515/s).
+[Thu Dec 13 00:00:45 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Thu Dec 13 00:00:45 2012] [info] Listening at "http://*:3000".
+[Thu Dec 13 00:00:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Dec 13 00:00:49 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:00:49 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Thu Dec 13 00:00:49 2012] [debug] 302 Found (0.062604s, 15.973/s).
+[Thu Dec 13 00:00:53 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:00:53 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Thu Dec 13 00:00:58 2012] [error] Connection error: DBI connect('database=gdgd:127.0.0.1','gdgd',...) failed: Access denied for user 'gdgd'@'localhost' (using password: YES) at /usr/lib/perl5/site_perl/5.14/Teng.pm line 102.
+ at script/../lib/Acme/GdGd/Web.pm line 10.
+
+[Thu Dec 13 00:00:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Dec 13 00:00:58 2012] [debug] Template "exception.html.ep" not found.
+[Thu Dec 13 00:00:58 2012] [debug] Rendering inline template.
+[Thu Dec 13 00:00:58 2012] [debug] Rendering inline template.
+[Thu Dec 13 00:00:58 2012] [debug] 500 Internal Server Error (4.815347s, 0.208/s).
+[Thu Dec 13 00:02:26 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Thu Dec 13 00:02:26 2012] [info] Listening at "http://*:3000".
+[Thu Dec 13 00:02:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Dec 13 00:02:29 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:02:29 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Thu Dec 13 00:02:29 2012] [debug] 302 Found (0.062136s, 16.094/s).
+[Thu Dec 13 00:02:30 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:02:30 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Thu Dec 13 00:02:32 2012] [error] No such table User at script/../lib/Acme/GdGd/Web/Root.pm line 75.
+
+[Thu Dec 13 00:02:32 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Dec 13 00:02:32 2012] [debug] Template "exception.html.ep" not found.
+[Thu Dec 13 00:02:32 2012] [debug] Rendering inline template.
+[Thu Dec 13 00:02:32 2012] [debug] Rendering inline template.
+[Thu Dec 13 00:02:32 2012] [debug] 500 Internal Server Error (2.258325s, 0.443/s).
+[Thu Dec 13 00:03:31 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
+[Thu Dec 13 00:03:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Dec 13 00:03:38 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:03:38 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Thu Dec 13 00:03:39 2012] [debug] 302 Found (1.162098s, 0.861/s).
+[Thu Dec 13 00:03:39 2012] [debug] GET / (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:03:39 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "index".
+[Thu Dec 13 00:03:39 2012] [debug] Rendering template "Root/index.html.ep".
+[Thu Dec 13 00:03:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Dec 13 00:03:39 2012] [debug] 200 OK (0.028323s, 35.307/s).
+[Thu Dec 13 00:03:51 2012] [debug] GET /login (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:03:51 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "login".
+[Thu Dec 13 00:03:51 2012] [debug] 302 Found (0.001511s, 661.813/s).
+[Thu Dec 13 00:03:52 2012] [debug] GET /callback (Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS124349; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)).
+[Thu Dec 13 00:03:52 2012] [debug] Routing to controller "Acme::GdGd::Web::Root" and action "callback".
+[Thu Dec 13 00:03:54 2012] [debug] 302 Found (2.171069s, 0.461/s).
+[Thu Dec 13 00:04:58 2012] [debug] Reading config file "/home/tetsuya/acme_gdgd_web/acme_gdgd.conf".
